@@ -1,6 +1,6 @@
 # AWS Certified Solutions Architect Associate Exam - April 2020
 
-- Here are the materials I used to study for the SAA-C01 exam.
+- I thought I'll share the materials I used to study for the SAA-C01 exam with anyone who might benefit from it. 
   - I passed with 901/1000 score.
 - Things marked with :fire: I highly recommend and helped me the most.
 
