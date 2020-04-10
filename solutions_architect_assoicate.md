@@ -4,6 +4,7 @@
   - I passed with 901/1000 score.
 - AWS has extended the retirement date of the SAA-C01 exam until July 1st, 2020 and are offering online proctoring through Pearson VUE for all AWS certifications.
   - I took the exam online and had no issues during the process.
+- The material also covers the SAA-C02 exam.
 - Things marked with :fire: I highly recommend and helped me the most.
 
 Good luck! Let me know if you have questions! :sunglasses:
