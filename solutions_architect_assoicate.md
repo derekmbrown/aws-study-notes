@@ -31,6 +31,9 @@ Good luck! Let me know if you have questions! :sunglasses:
 - [Amazon Web Services Basics](https://www.youtube.com/playlist?list=PL55RiY5tL51pgPovJKg6HFMFqiGNSZtQ5)
 
 ### Other
+- [AWS Well Architected Framework](https://aws.amazon.com/architecture/well-architected/)
+  - [Blog](https://aws.amazon.com/blogs/apn/the-5-pillars-of-the-aws-well-architected-framework/) 
+  - [PDF](https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
 - [Prepare for your AWS Certification](https://aws.amazon.com/certification/certification-prep/)
 - [AWS Certification FAQs](https://aws.amazon.com/certification/faqs/)
 - [Official AWS Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate-Exam_Guide_EN_1.8.pdf)
