@@ -16,7 +16,7 @@ Good luck! Let me know if you have questions! :sunglasses:
 - [Whizlabs | AWS Certified Solutions Architect Associate](https://www.whizlabs.com/aws-solutions-architect-associate/practice-tests/) :fire:
 - [Official AWS Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS_Certified_Solutions_Architect_Associate_Sample_Questions.pdf)
 
-### Study Guides / Websites
+### Study Guides
 - [Jon Bonso, TutorialsDojo.com](https://tutorialsdojo.com/) :fire:
 - [undergroundwires, GitHub | AWS in bullet points](https://github.com/undergroundwires/AWS-in-bullet-points)
 - [bassbonestones, Quizlet | Note cards](https://quizlet.com/219208816/aws-saa-all-questions-flash-cards/)
