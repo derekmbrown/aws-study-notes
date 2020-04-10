@@ -21,7 +21,7 @@ Good luck! Let me know if you have questions! :sunglasses:
 - [undergroundwires, GitHub | AWS in bullet points](https://github.com/undergroundwires/AWS-in-bullet-points)
 - [bassbonestones, Quizlet | Note cards](https://quizlet.com/219208816/aws-saa-all-questions-flash-cards/)
 
-### Youtube Channels
+### YouTube Channels
 - [Amazon Web Services](https://www.youtube.com/user/AmazonWebServices/videos)
 - [AWS Events](https://www.youtube.com/channel/UCdoadna9HFHsxXWhafhNvKw/videos)
 - [The AWS Certification Quiz Show](https://www.youtube.com/playlist?list=PLBFD3bw_QT1YJe34JPM9MtR5tiVIekxBH)
