@@ -9,7 +9,7 @@ I thought I'd share the material I used to study for the SAA-C01 exam with anyon
 - AWS has extended the retirement date of the SAA-C01 exam until July 1st, 2020 and is currently offering online proctoring through Pearson VUE for all AWS certification exams.
 - The exam is 65 questions, multiple choice / multiple answer, short to the point questions (1-3 sentences). Don't expect paragraph long type questions.
 - Don't expect any diagrams or pictures. It's words only.
-- Pay attention to keywords such as cost-effective, high-availablity, most reliable, most secure, etc. A lot of questions contained answers that could all work but only one answer fit the question based on keywords.
+- Pay attention to keywords such as cost-effective, high availability, most reliable, most secure, etc. A lot of questions had answers that could all work but only one answer fit the question based on the keywords.
 
 Good luck! Let me know if you have questions! :sunglasses:
 
